@@ -1,0 +1,22 @@
+.img {
+    width:100%;
+    height:600px;
+    object-fit: fill;
+}
+.ava { 
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: fill;
+}
+.font {
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    
+  }
+.h1 {
+    color: #F7B5CA;
+}
+.pink-background{
+    background-color: #ffe5f0b4;
+}
